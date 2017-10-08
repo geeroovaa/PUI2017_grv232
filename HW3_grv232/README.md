@@ -6,7 +6,7 @@ They all complied with this theorem. The more the size of the sample tended to i
 The histograms were plotted for each data distribution with all of them having different patterns.
 
 # Assignment 2
-I assessed if men biked faster than women using the citi bike data. The hypothesis hold true.
+I assessed if men biked faster than women using the citi bike data. The hypothesis holds true.
 
 # Assignment 3
 I finished the Z test lab to find out that the new bus line actually decreased the trips avergae time.
