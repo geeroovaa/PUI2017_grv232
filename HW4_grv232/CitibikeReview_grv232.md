@@ -1,8 +1,8 @@
-The Idea: Men are more likely to cycle long distances than women.
+## The Idea: Men are more likely to cycle long distances than women.
 
 However the null hypthesis talks about time and not distance as if the speed of both was the same. Having worked on speed as a variable, I know this is no so and therefore a better null hypothesis should be proposed:
 
-## Ho = The average distance cycled per trip by women is the same or less than that of men.
+### Ho = The average distance cycled per trip by women is the same or less than that of men.
 
 Data Variables: As I said before, distance is to be considered instead of time. The columns that help calculate distance (although an euclidean one, google maps api can be used for an acual one) are start station lat/long and end station lat/long. On the positive side, the time trip duration data was rendered correctly.
 
