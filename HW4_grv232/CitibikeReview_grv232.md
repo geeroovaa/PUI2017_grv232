@@ -8,7 +8,7 @@ Data Variables: As I said before, distance is to be considered instead of time. 
 
 Statistical hypthesis test: since the values of distance are parametric and unpaired a simple T-test would do, since all data is available and both the mean and standard deviation's population are known we could use a Z-test.
 
-Variations on the question: The analysis addressed was really: Are men more likely than women to spend more than 30 min on a bike. Which I guess could be motivated by the question: Do men spend more time biking than women? I think the original idea is valid one and could be used by Citibike to address certain gender gap between users: Why is the citibike user more likely to be a man than a women? Why do women
+Variations on the question: The analysis addressed was really: Are men more likely than women to spend more than 30 min on a bike. Which I guess could be motivated by the question: Do men spend more time biking than women do? I think the original idea is valid one and could be used by Citibike to address certain gender gap between users: Why is the citibike user more likely to be a man than a women? Why do women
 travel shorter distances? Why do men bike faster than women do? Is it related to physical aspects of the bike like weight and size? Is it because women are more cautious than men?
 
 
