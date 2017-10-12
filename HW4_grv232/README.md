@@ -1,3 +1,8 @@
+I worked with Cao Baiyue on the second assignment and a few doubts I had with spatial coordinate delimitation for the fouth part. For the first part I reviewed Ruben's null hypothesis and asked him not to relate distance and time for both genders as if the speed was the same. On the second part we reviewed a series of papers and identified the tests that best suited the data types that were being worked on. 
+For the third part several hypothesis for a convict program were tested under the Z and Chi-squared test.
+On the last part I worked with citibike data, comparing trip duration by day and night and age by borough (Manhattan and Brooklyn). Three test were used to assess the statistical similar or different; which all of the test showed they were with significant low p-values.
+
+
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------------|:----:|:-------:|:-------|
 ANOVA | emotional exhaustion scores | continuous | Core self-evaluation, active coping, passive coping | continuous, categorical | gender, age, job ranking, work experience, | categorical, ordinal | This study aimed to determine the potential association between core self-evaluation, mediating role of coping styles and the burnout syndrome among Chinese nurses | Nurses who had higher self-evaluation characteristics, reported less emotional exhaustion and cynicism, and higher professional efficacy. | 0.05 | http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0115799 |
