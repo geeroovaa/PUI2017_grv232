@@ -1,1 +1,2 @@
-
+For this homework I perfomed a z-test on several poisson distributions and showed that their z-score distribution was similar to a gaussian one. On the second assignement I performed several tests like KS, AS, Chi-sq, KL entropy to assess wether an increase on the mean loweres the possibility of rejecting the null hypthesis, which is that they come from a normal distribution. For the third assignment I plotted (both scatter plots and histograms) several parameters related to firearms homicides per country, realizing that the US is a huge outlier amongst others.
+For this hw I worked with Bayue and Marium
