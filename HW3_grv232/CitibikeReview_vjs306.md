@@ -29,6 +29,9 @@ _c. chose an appropriate test to test H0 given the type of data, and the questio
 By looking at the flow chart provided I would suggest a Chi square test as we are comparing the value in one category (females) to another category (males). 
 
 
+# FBB good, I agree that the null as stated reflects the expectation that women bike faster, and I suspect the expectation is the opposite so the NUll should be flipped to falsify the effect.
+
+# FBB while the IV is categorical, the DV is continuous, not categorical. Since what should be compared is a mean, then other tests are also available: ANOVA, t-test while the chi2 test is designed for proportions. 
 
 
 
