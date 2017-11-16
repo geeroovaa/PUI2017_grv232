@@ -1,0 +1,1 @@
+I download a dataset form the Center for Disease and Prevention portal. (https://wonder.cdc.gov/controller/datarequest/D14). The data set contains information on reported AIDS cases in the New York area.
